@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+	<ModulePrefs
+		directory_title	="Multi Search"
+		title			="www.searchextensions.com"
+		title_url		="http://www.searchextensions.com"
+		description		="__MSG_description__"
+		author			="searchextensions.com"
+		author_email	="info@searchextensions.com"
+		author_link		="http://www.searchextensions.com"
+		author_location	="Berlin, Germany"
+		author_quote	="Faster finding!"
+		author_photo    ="http://www.searchextensions.com/images/author_photo.png"
+		screenshot		="http://www.searchextensions.com/images/screenshot.png"
+		thumbnail		="http://www.searchextensions.com/images/thumbnail.png"
+		singleton       ="true"
+		height         	="30"
+		category		="tools"
+		>
+		<Icon>http://www.searchextensions.com/favicon.ico</Icon>
+		<Require feature="dynamic-height" />
+		<Require feature="setprefs" />
+		<Require feature="analytics" />
+		<Locale lang="all">
+		  	<msg name="description">Multi Search is a tiny and fully customizable search gadget for more then 200 websites like Amazon, ebay, Flickr, Leo, Torrent, Wikipedia, YouTube.</msg>
+			<msg name="label_loading">Loading</msg>
+		</Locale>
+		<Locale lang="ar"></Locale>
+		<Locale lang="de">
+			<msg name="description">Multi Search ist ein kompaktes Such gadget mit mehr als 200 Webseiten wie zB Amazon, ebay, Flickr, Torrent, Wikipedia und YouTube. Die Suche eignet sich besonders zum Suchen auf deutschen Seiten wie Leo.org, studiVZ, Xing, Spiegel, Bahn und Selfhtml.</msg>
+			<msg name="label_loading">Laden</msg>
+		</Locale>
+		<Locale lang="da"></Locale>
+		<Locale lang="en"></Locale>
+		<Locale lang="ja"></Locale>
+		<Locale lang="nl"></Locale>
+		<Locale lang="ru"></Locale>
+		<Locale lang="sv"></Locale>
+	</ModulePrefs>
+	<UserPref name="prefs" datatype="hidden" />
+	<Content type="html"><![CDATA[
+		<div id="MMMSearch_container" class="MMMSearch_container">__MSG_label_loading__...</div>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+		<script type="text/javascript" src="http://static.searchextensions.com/js/mysearches.js?lastupdated=17_10_2011"></script>
+	]]></Content>
+</Module>

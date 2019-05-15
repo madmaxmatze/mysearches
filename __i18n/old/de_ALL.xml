@@ -1,0 +1,50 @@
+﻿<messagebundle>
+	<msg name="description">'MySearches' ist ein kompaktes Suchmodul für mehr als 200 Webseiten wie zB Amazon, ebay, Flickr, Torrent, Wikipedia und YouTube. Die Suche eignet sich besonders zum Suchen auf deutschen Sites wie Leo.org, studiVZ, Xing, Spiegel, Bahn und Selfhtml.</msg>
+
+	<msg name="user_language">de</msg>
+
+	<msg name="label_loading">Laden</msg>
+		
+	<msg name="button_homepagelink_hint">Ideen oder Kommentare?</msg>
+	<msg name="button_homepagelink_text">Module weiter empfehlen</msg>
+	<msg name="button_setup">Setup öffnen/schliessen</msg>
+	<msg name="button_home">Gadget Homepage</msg>
+	<msg name="button_hidegoogle">Google anzeigen/verstecken</msg>	
+
+	<msg name="headline_community">Gemeinschaft</msg> 
+	<msg name="headline_diverse">Sonstiges</msg>
+	<msg name="headline_finance">Finanzen</msg> 
+	<msg name="headline_games">Spiele</msg> 
+	<msg name="headline_knowledge">Wissen</msg> 
+	<msg name="headline_location">Dienste</msg> 
+ 	<msg name="headline_media">Medien</msg>
+ 	<msg name="headline_music">Musik</msg>
+	<msg name="headline_news">Nachrichten</msg> 
+	<msg name="headline_portals">Suchportale</msg>
+	<msg name="headline_programming">Programmierung</msg> 
+	<msg name="headline_shopping">Einkauf</msg>
+	
+	<msg name="select_text">Auswahl</msg>
+	<msg name="select_all">Alle</msg>
+	<msg name="select_none">Keine</msg>
+	
+	<msg name="tab_settings">OPTIONEN</msg>
+	<msg name="tab_settings_new_window_for_search">Ergebnisse in neuem Fenster anzeigen</msg> 
+	<msg name="tab_settings_show_labels">Beschriftung für Suchgruppen zeigen</msg> 
+	<msg name="tab_aa">ALLGEMEIN</msg>
+	<msg name="tab_at">Österreich</msg>
+	<msg name="tab_au">Australien</msg>
+	<msg name="tab_ca">Kanada</msg>
+	<msg name="tab_ch">Schweiz</msg>
+	<msg name="tab_cn">China</msg>
+	<msg name="tab_de">Deutschland</msg>
+	<msg name="tab_dk">Dänemark</msg>
+	<msg name="tab_es">Spanien</msg>
+	<msg name="tab_fr">Frankreich</msg>
+	<msg name="tab_it">Italien</msg>
+	<msg name="tab_jp">Japan</msg>
+	<msg name="tab_nl">Niederlande</msg>
+	<msg name="tab_se">Schweden</msg>
+	<msg name="tab_uk">Großbritannien</msg>
+	<msg name="tab_us">USA</msg>			
+</messagebundle>

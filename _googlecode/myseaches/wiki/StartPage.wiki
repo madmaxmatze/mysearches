@@ -1,0 +1,28 @@
+#summary Entry Page for mySearches Wiki
+
+= Werbung =
+[http://www.googlewidgets.net/index.php?page=View&id=56]
+
+[http://groups.google.com/group/Google-Gadgets-API/browse_thread/thread/c18bb42e09e0dd53#93231fa573b6e21e]
+
+[http://directory.snipperoo.com/google/mySearches-l3912.html]
+
+[http://www.googlewatchblog.de/2007/12/27/igoogle-gadget-mysearches]
+
+[http://googleminiapps.blogspot.com/2008/01/mysearches-gadget.html]
+
+[http://www.perun.net/2006/08/26/google-liebt-die-webmaster]
+
+[http://googlemodules.com/module/1537/]
+
+
+= Translators =
+
+
+Example location of i18n message bundles: [http://mysearches.googlecode.com/svn/trunk/i18n/da_ALL.xml]
+
+|| *language* || *Name* || *Mail* (usually @gmail.com) ||
+|| da (Danish) || Lars Holm Jensen || web (at) larsholm (dot) net ||
+|| ja (Japanese) || Masaki Hayashi || payashi ||
+|| nl (Dutch) || Futureline  || futureline ||
+|| sv (Swedish) || Jonas Hangvar || hangvar ||

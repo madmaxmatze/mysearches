@@ -1,0 +1,49 @@
+﻿<!--
+	Netherlands
+	translated by Futureline - futureline@gmail.com
+-->
+<messagebundle>
+	<msg name="user_language">nl</msg>
+
+	<msg name="button_homepagelink_hint">Commentaar of ideeen verzenden</msg>
+	<msg name="button_homepagelink_text">Deze module aanbevelen</msg>
+	<msg name="button_setup">Open/Sluit setup</msg>
+	<msg name="button_hidegoogle">Hide/Show Google Header</msg>	
+
+	<msg name="headline_community">Gemeenschap</msg> 
+	<msg name="headline_diverse">Diverse</msg>
+	<msg name="headline_finance">Financieel</msg> 
+	<msg name="headline_games">Games</msg> 
+	<msg name="headline_google">Google</msg>	
+	<msg name="headline_knowledge">Kennis</msg> 
+	<msg name="headline_language">Taal</msg> 
+	<msg name="headline_location">Locatie</msg> 
+ 	<msg name="headline_media">Media</msg>
+	<msg name="headline_news">Nieuws</msg> 
+	<msg name="headline_portals">Zoek</msg>
+	<msg name="headline_programming">Programmeren</msg> 
+	<msg name="headline_shopping">Shoppen</msg>
+
+	<msg name="select_text">Selecteer</msg>
+	<msg name="select_all">Alles</msg>
+	<msg name="select_none">Geen</msg>
+	
+	<msg name="tab_settings">INSTELLINGEN</msg>
+	<msg name="tab_settings_new_window_for_search">Nieuw venster voor zoeken</msg> 
+	<msg name="tab_aa">ALGEMEEN</msg>
+	<msg name="tab_at">Oostenrijk</msg>
+	<msg name="tab_au">Australia</msg>
+	<msg name="tab_ca">Canada</msg>
+	<msg name="tab_ch">Zwitserland</msg>
+	<msg name="tab_cn">China</msg>
+	<msg name="tab_de">Duitsland</msg>
+	<msg name="tab_dk">Denemarken</msg>
+	<msg name="tab_es">Spanje</msg>
+	<msg name="tab_fr">Frankrijk</msg>
+	<msg name="tab_it">Italie</msg>
+	<msg name="tab_jp">Japan</msg>
+	<msg name="tab_nl">Nederland</msg>
+	<msg name="tab_se">Zweden</msg>
+	<msg name="tab_uk">Engeland</msg>
+	<msg name="tab_us">USA</msg>			
+</messagebundle>

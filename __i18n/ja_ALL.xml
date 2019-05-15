@@ -1,0 +1,53 @@
+﻿<!--
+       Japanese
+       translated by Masaki Hayashi - payashi@gmail.com
+ -->
+<messagebundle>
+       <msg name="user_language">ja</msg>
+
+       <msg name="button_homepagelink_hint">コメントもしくはアイデアを送信する</msg>
+       <msg name="button_homepagelink_text">このモジュールを推薦する</msg>
+       <msg name="button_setup">設定を開く / 閉じる</msg>
+       <msg name="button_hidegoogle">上部のGoogle検索を表示する / 隠す</msg>
+       <msg name="headline_bookmarking">ソーシャルブックマーク</msg>
+       <msg name="headline_community">コミュニティ</msg>
+       <msg name="headline_diverse">色々</msg>
+       <msg name="headline_finance">ファイナンス</msg>
+       <msg name="headline_games">ゲーム</msg>
+       <msg name="headline_google">Google</msg>
+       <msg name="headline_knowledge">教養</msg>
+       <msg name="headline_language">言語</msg>
+       <msg name="headline_location">場所</msg>
+       <msg name="headline_media">動画/写真</msg>
+       <msg name="headline_news">ニュース</msg>
+       <msg name="headline_portals">検索ポータル</msg>
+       <msg name="headline_programming">プログラミング</msg>
+       <msg name="headline_shopping">ショッピング</msg>
+       <msg name="headline_torrent">トレント</msg>
+       <msg name="headline_usenet">Usenet</msg>
+       <msg name="headline_wow">WOW</msg>
+
+       <msg name="select_text">選択</msg>
+       <msg name="select_all">全てを選択</msg>
+       <msg name="select_none">全てを非選択</msg>
+
+       <msg name="tab_settings">設定</msg>
+       <msg name="tab_settings_new_window_for_search">検索結果を新規Windowで開く</msg>
+       <msg name="tab_settings_show_labels">検索エンジングループのラベル名を表示する</msg> 
+       <msg name="tab_aa">その他全般</msg>
+       <msg name="tab_at">オーストリア</msg>
+       <msg name="tab_au">オーストラリア</msg>
+       <msg name="tab_ca">カナダ</msg>
+       <msg name="tab_ch">スイス</msg>
+       <msg name="tab_cn">中国</msg>
+       <msg name="tab_de">ドイツ</msg>
+       <msg name="tab_dk">デンマーク</msg>
+       <msg name="tab_es">スペイン</msg>
+       <msg name="tab_fr">フランス</msg>
+       <msg name="tab_it">イタリア</msg>
+       <msg name="tab_jp">日本</msg>
+       <msg name="tab_nl">オランダ</msg>
+       <msg name="tab_se">スウェーデン</msg>
+       <msg name="tab_uk">イギリス</msg>
+       <msg name="tab_us">アメリカ</msg>
+</messagebundle>

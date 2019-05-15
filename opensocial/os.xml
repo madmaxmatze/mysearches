@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+ <ModulePrefs title="List Friends Example">
+ 
+ <Require feature="opensocial-0.8"/>
+ </ModulePrefs>
+ <Content type="html">
+ <![CDATA[
+   <script type="text/javascript">
+   </script>
+   <div id="message">Gadegt</div>
+ 
+ ]]>
+ </Content>
+</Module>

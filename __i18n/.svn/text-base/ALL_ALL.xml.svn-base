@@ -1,0 +1,54 @@
+﻿<messagebundle>
+	<msg name="description">'MySearches' is a tiny and fully customizable search module for more then 200 websites like Amazon, ebay, Flickr, Leo, Torrent, Wikipedia, YouTube.</msg>
+	
+	<msg name="user_language">unknown</msg>
+
+	<msg name="label_loading">Loading</msg>
+	
+	<msg name="button_homepagelink_hint">Submit comments or ideas</msg>
+	<msg name="button_homepagelink_text">Recommend this module</msg>
+	<msg name="button_setup">Open/close setup</msg>
+	<msg name="button_home">Homepage</msg>
+	<msg name="button_hidegoogle">Hide/show Google Header</msg>	
+
+	<msg name="headline_bookmarking">Bookmarking</msg> 
+	<msg name="headline_community">Community</msg> 
+	<msg name="headline_diverse">Diverse</msg>
+	<msg name="headline_finance">Finance</msg> 
+	<msg name="headline_games">Games</msg> 
+	<msg name="headline_google">Google</msg>	
+	<msg name="headline_knowledge">Knowledge</msg> 
+	<msg name="headline_language">Language</msg> 
+ 	<msg name="headline_media">Media</msg>
+ 	<msg name="headline_news">News</msg> 
+	<msg name="headline_portals">Search</msg>
+	<msg name="headline_programming">Programming</msg> 
+	<msg name="headline_shopping">Shopping</msg>
+	<msg name="headline_torrent">P2P FileSharing</msg>
+	<msg name="headline_wow">WOW</msg>
+	<msg name="headline_xxx">XXX</msg>
+
+	<msg name="select_text">Select</msg>
+	<msg name="select_all">All</msg>
+	<msg name="select_none">None</msg>
+	
+	<msg name="tab_settings">SETTINGS</msg>
+	<msg name="tab_settings_new_window_for_search">Open results in new window</msg> 
+	<msg name="tab_settings_show_labels">Show labels for searchgroups</msg> 
+	<msg name="tab_aa">GENERAL</msg>
+	<msg name="tab_at">Austria</msg>
+	<msg name="tab_au">Australia</msg>
+	<msg name="tab_ca">Canada</msg>
+	<msg name="tab_ch">Switzerland</msg>
+	<msg name="tab_cn">China</msg>
+	<msg name="tab_de">Germany</msg>
+	<msg name="tab_dk">Denmark</msg>
+	<msg name="tab_es">Spain</msg>
+	<msg name="tab_fr">France</msg>
+	<msg name="tab_it">Italy</msg>
+	<msg name="tab_jp">Japan</msg>
+	<msg name="tab_nl">Netherlands</msg>
+	<msg name="tab_se">Schweden</msg>
+	<msg name="tab_uk">Great Britain</msg>
+	<msg name="tab_us">USA</msg>			
+</messagebundle>

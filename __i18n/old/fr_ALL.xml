@@ -1,0 +1,28 @@
+﻿<messagebundle>
+	<msg name="user_language">fr</msg>
+
+	<msg name="label_loading">Loading</msg>
+	
+	<msg name="button_homepagelink_hint">Submit comments or ideas</msg>
+	<msg name="button_homepagelink_text">Recommend this module</msg>
+	<msg name="button_setup">Open/close setup</msg>
+	<msg name="button_hidegoogle">Hide/show Google Header</msg>	
+
+	<msg name="headline_bookmarking">Bookmarking</msg> 
+	<msg name="headline_community">Community</msg> 
+	<msg name="headline_diverse">Diverse</msg>
+	<msg name="headline_finance">Finance</msg> 
+	<msg name="headline_games">Games</msg> 
+	<msg name="headline_google">Google</msg>	
+	<msg name="headline_knowledge">Knowledge</msg> 
+	<msg name="headline_language">Language</msg> 
+ 	<msg name="headline_media">Media</msg>
+ 	<msg name="headline_news">News</msg> 
+	<msg name="headline_portals">Search</msg>
+	<msg name="headline_programming">Programming</msg> 
+	<msg name="headline_shopping">Shopping</msg>
+	<msg name="headline_xxx">XXX</msg>
+	
+	<msg name="tab_settings_new_window_for_search">Open results in new window</msg> 
+	<msg name="tab_settings_show_labels">Show labels for searchgroups</msg> 
+</messagebundle>

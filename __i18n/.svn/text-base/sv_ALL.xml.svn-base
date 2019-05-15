@@ -1,0 +1,53 @@
+﻿<!--
+	swedish
+	translated by Jonas Hangvar - hangvar@gmail.com
+-->
+<messagebundle>
+	<msg name="user_language">sv</msg>
+	
+	<msg name="button_homepagelink_hint">Submit comments or ideas</msg>
+	<msg name="button_homepagelink_text">Recommend this module</msg>
+	<msg name="button_setup">Open/Stäng inställningar</msg>
+	<msg name="button_hidegoogle">Hide/show Google Header</msg>	
+
+	<msg name="headline_bookmarking">Bookmarking</msg> 
+	<msg name="headline_community">Nätförening</msg> 
+	<msg name="headline_diverse">Diverse</msg>
+	<msg name="headline_finance">Finans</msg> 
+	<msg name="headline_games">Games</msg> 
+	<msg name="headline_google">Google</msg>	
+	<msg name="headline_knowledge">Kunskap</msg> 
+	<msg name="headline_language">Språk</msg> 
+	<msg name="headline_location">Plats</msg> 
+ 	<msg name="headline_media">Media</msg>
+	<msg name="headline_news">Nyheter</msg> 
+	<msg name="headline_portals">Sökportaler</msg>
+	<msg name="headline_programming">Programmering</msg> 
+	<msg name="headline_shopping">Shopping</msg>
+	<msg name="headline_torrent">Torrent</msg>
+	<msg name="headline_usenet">Usenet</msg>
+	<msg name="headline_wow">WOW</msg>
+
+	<msg name="select_text">Select</msg>
+	<msg name="select_all">Alla</msg>
+	<msg name="select_none">Ingen</msg>
+	
+	<msg name="tab_settings">Inställningar</msg>
+	<msg name="tab_settings_new_window_for_search">Nytt fönster vid sökning</msg> 
+	<msg name="tab_aa">GENERELL</msg>
+	<msg name="tab_at">Österrike</msg>
+	<msg name="tab_au">Australia</msg>
+	<msg name="tab_ca">Kanada</msg>
+	<msg name="tab_ch">Schweiz</msg>
+	<msg name="tab_cn">Kina</msg>
+	<msg name="tab_de">Tyskland</msg>
+	<msg name="tab_dk">Denmark</msg>
+	<msg name="tab_es">Spanien</msg>
+	<msg name="tab_fr">Frankrike</msg>
+	<msg name="tab_it">Italien</msg>
+	<msg name="tab_jp">Japan</msg>
+	<msg name="tab_nl">Nederländerna</msg>
+	<msg name="tab_se">Sverige</msg>
+	<msg name="tab_uk">Storbrittanien</msg>
+	<msg name="tab_us">USA</msg>			
+</messagebundle>

@@ -1,0 +1,48 @@
+﻿<!--
+	Danemark
+	translated by Lars Holm Jensen - web@larsholm.net
+-->
+<messagebundle>
+	<msg name="user_language">dk</msg>
+
+	<msg name="button_homepagelink_hint">Submit comments or ideas</msg>
+	<msg name="button_homepagelink_text">Recommend this module</msg>
+	<msg name="button_setup">Open/Luk indstillinger</msg>
+	<msg name="button_hidegoogle">Hide/show Google Header</msg>		
+
+	<msg name="headline_community">Community</msg> 
+	<msg name="headline_diverse">Diverse</msg>
+	<msg name="headline_finance">Finans</msg> 
+	<msg name="headline_games">Games</msg> 
+	<msg name="headline_knowledge">Viden</msg> 
+	<msg name="headline_language">Sprog</msg> 
+	<msg name="headline_location">Plads</msg> 
+ 	<msg name="headline_media">Media</msg>
+	<msg name="headline_news">Nyheder</msg> 
+	<msg name="headline_portals">Søgemaskiner</msg>
+	<msg name="headline_programming">Programmering</msg> 
+	<msg name="headline_shopping">Shopping</msg>
+	
+	<msg name="select_text">Select</msg>
+	<msg name="select_all">Alle</msg>
+	<msg name="select_none">Ingen</msg>
+	
+	<msg name="tab_settings">Indstillinger</msg>
+	<msg name="tab_settings_new_window_for_search">Nyt vindue ved søgning</msg> 
+	<msg name="tab_aa">GENERELT</msg>
+	<msg name="tab_at">Østrig</msg>
+	<msg name="tab_au">Australien</msg>
+	<msg name="tab_ca">Canada</msg>
+	<msg name="tab_ch">Schweiz</msg>
+	<msg name="tab_cn">Kina</msg>
+	<msg name="tab_de">Tyskland</msg>
+	<msg name="tab_dk">Sverige</msg>
+	<msg name="tab_es">Spanien</msg>
+	<msg name="tab_fr">Frankrig</msg>
+	<msg name="tab_it">Italien</msg>
+	<msg name="tab_jp">Japan</msg>
+	<msg name="tab_nl">Holland</msg>
+	<msg name="tab_se">Schweden</msg>
+	<msg name="tab_uk">Storbritanien</msg>
+	<msg name="tab_us">USA</msg>			
+</messagebundle>

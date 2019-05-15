@@ -1,0 +1,20 @@
+<script type="text/javascript" src="dbmirgation.js"></script>
+<script type="text/javascript" src="jquery.js"></script>
+
+<script>
+	document.write("var MMMSearches = new TAFFY([<br>");
+		
+	console.log(MMMSearchObj.getSearches());
+	$.each(MMMSearchObj.getSearches(), function (key, search) {
+		document.write('{id:"' + search.getId() + '",<br>\
+		type:"' + search.getSection() + '",<br>\
+		cc:"' + (search.getTab() == "aa" ? "" : search.getTab()) + '",<br>\
+		name:"' + search.getId().substr(3,1000) + '",<br>\
+		label:"' + search.getName() + '",<br>\
+		url:"' + search.getUrl() + '",<br>\
+		surl:"' + search.getSearchUrl() + '",<br>\
+		desc:"' + search.getDescription() + '"},<br><br>');
+	});
+
+	document.write("]);");
+</script>
